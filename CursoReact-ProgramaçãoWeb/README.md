@@ -1,2 +1,0 @@
-Nessa pasta estão os meus estudos react atráves do curso de reactjs, feito pelo professor dimitri do canal programação web
-link: https://www.youtube.com/watch?v=D7GK21CFOXQ&list=PL2Fdisxwzt_eg5ly23m24JIx-we47mndw
