@@ -50,8 +50,8 @@ const JSXExemples = () => {
         {/* Renderização condicional*/}
         <div>
             <p>
-                {user.isLogged === true && <p>Você está logado</p>}
-                {user.isLogged === false && <p>Você não está logado</p>}
+                {user.isLogged === true && 'Você está logado'}
+                {user.isLogged === false && 'Você não está logado'}
             </p>
             
            {user.isAdmin?(
